@@ -7,7 +7,7 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 /**
- * @author : huyao
+ * @author :胡瑶
  * date : 2019/4/9
  */
 
